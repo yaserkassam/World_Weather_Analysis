@@ -1,1 +1,3 @@
 # World_Weather_Analysis
+
+In this **World Weather Analysis** we got API keys and created Dataframes, graphs, and used google API to create real world markers and maps. We created code and used real life API's and got data from a source, **Open Weather and Google API**, and used current info to create Dataframes through Pandas. We also, created gmaps and created certain parameters to get specific data that we were looking for. We created different charts such as **Temperature by Hemisphere, Humidity by Hemisphere, etc.** to look for trends or if the there are dependencies or not. In Gmaps we created markers and text box to show the closest hotel, current temperature, city, and current conditions.
